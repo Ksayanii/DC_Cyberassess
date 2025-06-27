@@ -1,0 +1,43 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   eslint.config.mjs
+#	new file:   next.config.js
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   postcss.config.js
+#	new file:   postcss.config.mjs
+#	new file:   public/file.svg
+#	new file:   public/globe.svg
+#	new file:   public/next.svg
+#	new file:   public/vercel.svg
+#	new file:   public/window.svg
+#	new file:   src/app/api/assessment/route.ts
+#	new file:   src/app/favicon.ico
+#	new file:   src/app/globals.css
+#	new file:   src/app/layout.tsx
+#	new file:   src/app/page.tsx
+#	new file:   src/components/AssessmentForm.tsx
+#	new file:   src/components/ChartsGrid.tsx
+#	new file:   src/components/Recommendations.tsx
+#	new file:   src/components/ReportSection.tsx
+#	new file:   src/components/ScoreHero.tsx
+#	new file:   src/components/ui/Button.tsx
+#	new file:   src/components/ui/Card.tsx
+#	new file:   src/components/ui/ProgressBar.tsx
+#	new file:   src/types/assessment.tsx
+#	new file:   src/utils/scoreCalculator.ts
+#	new file:   tailwind.config.js
+#	new file:   tsconfig.json
+#
+# Untracked files:
+#	cybersecurity-assessment copy.code-workspace
+#
